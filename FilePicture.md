@@ -1,4 +1,4 @@
-https://gitlocalize.com/repo/5094/whole_project/badge.svg
+
 <a href="https://gitlocalize.com/repo/5094/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/5094/whole_project/badge.svg" /> </a>
 First Header  | Second Header
 ------------- | -------------
@@ -11,7 +11,7 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-![Citadel](https://vignette.wikia.nocookie.net/masseffect/images/d/d7/MassEffect2Citadel.jpg/revision/latest?cb=20100721191415)
+![Citadel](https://gitlocalize.com/repo/5094/whole_project/badge.svg)
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
