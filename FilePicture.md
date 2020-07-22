@@ -4,7 +4,7 @@ First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
-
+[url=https://gitlocalize.com/repo/5094/whole_project?utm_source=badge][img]https://gitlocalize.com/repo/5094/whole_project /badge.svg[/img][/url]
 
 | First Header  | Second Header |
 | ------------- | ------------- |
