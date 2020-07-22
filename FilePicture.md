@@ -1,4 +1,4 @@
-
+https://gitlocalize.com/repo/5094/whole_project/badge.svg
 <a href="https://gitlocalize.com/repo/5094/whole_project?utm_source=badge"> <img src="https://gitlocalize.com/repo/5094/whole_project/badge.svg" /> </a>
 First Header  | Second Header
 ------------- | -------------
